@@ -1,0 +1,1 @@
+export const SET_AMZ = 'SET_AMZ'
